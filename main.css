@@ -1,0 +1,27 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.heading{
+	margin: 20px;
+	font-size: 30px;
+}
+body{
+	background-color: #f6e8fa;
+}
+.foot1{
+
+	padding: 10px;
+	background-color: #6d137d;
+	color: white;
+	font-size: 13px;
+}
+.d_head{
+	margin-top: 10px;
+}
+
+.email11{
+	padding: 30px;
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
